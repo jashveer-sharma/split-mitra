@@ -1,12 +1,45 @@
-# React + Vite
+# 💸 Split Mitra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Your ultimate expense tracker and bill-splitter for friends, roommates, and travel groups.
 
-Currently, two official plugins are available:
+🎯 **Live Site:** [https://splitmitra.netlify.app/](https://splitmitra.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 👥 Add and manage group members
+- 💵 Track shared and individual expenses
+- 🔄 Real-time expense splitting
+- 📊 Pie chart analytics of spending
+- 📝 Add optional notes for each transaction
+- 🎨 Beautiful, responsive UI with Tailwind CSS
+- ⚡ Smooth animations via Framer Motion
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** Vite + React
+- **Styling:** Tailwind CSS
+- **Backend:** Node.js (coming soon / under development)
+- **Hosting:** Netlify
+
+---
+
+## 🧪 Local Setup Instructions
+
+Follow these steps to run Split Mitra locally:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/split-mitra.git
+
+# 2. Navigate to the project folder
+cd split-mitra
+
+# 3. Install dependencies
+npm install
+
+# 4. Run development server
+npm run dev
